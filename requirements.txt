@@ -1,4 +1,4 @@
-tensorflow==1.13.1
+tensorflow==2.4.0
 torch==1.1.0
 Keras==2.2.4
 sklearn==0.0
